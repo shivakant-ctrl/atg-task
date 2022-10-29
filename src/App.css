@@ -24,25 +24,23 @@ body {
 
 .navbar-brand {
   height: 24px;
-  width: 10%;
-  margin-left: 5%;
+  width: 162.57px;
+  margin-left: 72px;
 }
 
 .navbar--search {
-  width: 25%;
+  width: 360px;
   height: 42px;
   border: none;
   border-radius: 21px;
   background-color: #F2F2F2;
   text-indent: 50px;
-  margin-left: 10%;
-  min-width: fit-content;
 }
 
 .navbar--text {
   width: fit-content;
   height: 21px;
-  margin-right: 6%;
+  margin-right: 96px;
 }
 
 /* Top */
